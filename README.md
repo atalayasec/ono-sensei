@@ -16,7 +16,7 @@ The project starts as an R&D project with the basic idea to automate file extrac
 The project is sponsored by Atalaya Security, a no profit applied research group focused on information security: [Atalaya](https://www.atalayasec.net)
 
 
-The Stack is downloadable as ISO from https://download.atalayasec.net/thestack.
+The Stack is downloadable as an ISO image from [here](https://download.atalayasec.net/atl5k-debug.iso)
 Test it out: check the [5 Minutes Quickstart](https://github.com/atalayasec/thesecuritystack/wiki/Quickstart)
 
 ## Requirements
