@@ -10,10 +10,10 @@ The Security Stack, or "The Stack", is an attempt to develop an easy to use open
 The idea is to leverage open source projects, such as Suricata, Cuckoo, Squid, and collate them in order to mimic commercial software functionalities. We believe that the world deserves a non commercial alternative for protecting against non-targeted attacks, such as ransomware, mass phishing, etc etc.
 
 
-The project starts as an R&D project with the basic idea to automate file extraction and sandbox analysis via an open source stack, architecture documented [here](Architecture). The current status is Alpha, we look for help from the community to implement our [Roadmap](Roadmap).
+The project starts as an R&D project with the basic idea to automate file extraction and sandbox analysis via an open source stack, architecture documented [here](Architecture). The current status is Alpha, we look for help from the community to implement our [Roadmap](https://github.com/atalayasec/thesecuritystack/wiki/Roadmap).
 
 
-The project is sponsored by Atalaya Security, a no profit applied research group focused on information security: [Atalaya](https://www.atalayasec.net)
+The project is sponsored by Atalaya Security, a no profit applied research group focused on information security: [Atalaya](https://www.linkedin.com/company/atalaya-security)
 
 
 The Stack is downloadable as an ISO image from [here](https://download.atalayasec.net/atl5k-debug.iso)
