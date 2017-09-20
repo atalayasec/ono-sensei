@@ -5,7 +5,7 @@ Main repository to hold all the documentation for The Security Stack project
 
 The Security Stack, or "The Stack", is an attempt to develop an easy to use open source network protection platform.
 
-[Quickstart](Quickstart)
+[Quickstart](https://github.com/atalayasec/thesecuritystack/wiki/Quickstart)
 
 The idea is to leverage open source projects, such as Suricata, Cuckoo, Squid, and collate them in order to mimic commercial software functionalities. We believe that the world deserves a non commercial alternative for protecting against non-targeted attacks, such as ransomware, mass phishing, etc etc.
 
