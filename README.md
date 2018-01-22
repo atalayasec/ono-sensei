@@ -9,7 +9,7 @@ The ono-sensei project, sometimes referred to in the documentation as "the stack
 The idea is to leverage open source projects, such as Suricata, Cuckoo, Squid, and collate them in order to mimic commercial software functionalities. We believe that the world deserves a non commercial alternative for protecting against non-targeted attacks, such as ransomware, mass phishing, etc etc.
 
 
-The project starts as an R&D project with the basic idea to automate file extraction and sandbox analysis via an open source stack, architecture documented [here](Architecture). The current status is Alpha, we look for help from the community to implement our [Roadmap](https://github.com/atalayasec/ono-sensei/wiki/Roadmap).
+The project starts as an R&D project with the basic idea to automate file extraction and sandbox analysis via an open source stack, architecture documented [here](https://github.com/atalayasec/ono-sensei/wiki). The current status is Alpha, we look for help from the community to implement our [Roadmap](https://github.com/atalayasec/ono-sensei/wiki/Roadmap).
 
 
 The project is sponsored by Atalaya Security, a no profit applied research group focused on information security: [Atalaya](https://www.linkedin.com/company/atalaya-security)
